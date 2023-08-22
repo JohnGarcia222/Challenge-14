@@ -1,4 +1,4 @@
-# ***Challenge 14***
+# ***Machine Learning Algorithm***
 
 Within challenge 14 we will incorporate a machine learning model to pre-existing algorithmic trading bots to improve and maintain an upperhand.
 
